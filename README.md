@@ -61,6 +61,11 @@ Official skills curated by the Google Gemini team (`google-gemini/gemini-skills`
   - **主机纳管 CLI/API**：免密 Bearer Token 与 Cookie 双模鉴权，配套 `scripts/berth-hosts.mjs` 支持主机增删改查与 SSH 指纹探测。
   - **容器与系统监控**：远程容器启停、日志流查看与系统状态诊断。
 
+- `navpage` — navpage 个人导航站管理与运维技能：
+  - **链接与分组管理**：链接增删改查（内外网双地址、图标自动探测与本地下载落地）、分组排序与组内流转。
+  - **个性化设置与外观**：配置时钟、天气城市、搜索引擎、动态壁纸与布局风格。
+  - **数据安全**：支持一键导出与备份 SQLite 数据库。
+
 ### UI Suite
 
 - `clean-workbench-ui` — Palette-agnostic skill for modern, crisp, high-density SaaS workbenches:
