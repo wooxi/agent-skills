@@ -56,6 +56,11 @@ Official skills curated by the Google Gemini team (`google-gemini/gemini-skills`
   - **节点与用户运维**：Hysteria 2、VLESS Reality 节点添加、端口跳跃、参数下发与心跳诊断。
   - **环境嗅探与排障**：配套 `probe_env.sh` 脚本自动识别架构、网络与内核能力。
 
+- `berth-ops` — Berth 私有服务器控制面板全链路运维与管理技能：
+  - **前后端运维与热更新**：Vite/React 前端原地替换、Node 24 后端 Docker 重建、Nginx 代理。
+  - **主机纳管 CLI/API**：免密 Bearer Token 与 Cookie 双模鉴权，配套 `scripts/berth-hosts.mjs` 支持主机增删改查与 SSH 指纹探测。
+  - **容器与系统监控**：远程容器启停、日志流查看与系统状态诊断。
+
 ### UI Suite
 
 - `clean-workbench-ui` — Palette-agnostic skill for modern, crisp, high-density SaaS workbenches:
