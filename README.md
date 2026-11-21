@@ -38,6 +38,17 @@ Official-grade skills for the Feishu (Lark) open platform, driven by `lark-cli`.
 | `lark-workflow-meeting-summary` | Meeting-minutes digest workflow |
 | `lark-workflow-standup-report` | Calendar + tasks standup summary |
 
+### Google Gemini Suite (Official)
+
+Official skills curated by the Google Gemini team (`google-gemini/gemini-skills`) for building applications and agent workflows:
+
+| Skill | Description |
+|---|---|
+| `gemini-api-dev` | Official SDK best practices (Python/TypeScript), structured output, multimodal, function calling |
+| `gemini-api-cli` | Shell client `gemini-api` for media generation, transcription, Deep Research, file analysis |
+| `gemini-live-api-dev` | Bidirectional real-time voice, video, and audio streaming over WebSockets |
+| `gemini-omni-flash-api` | Generative video editing, video extensions, and text/image-to-video with Omni Flash |
+
 ### UI Suite
 
 - `clean-workbench-ui` — Palette-agnostic skill for modern, crisp, high-density SaaS workbenches:
