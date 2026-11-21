@@ -49,6 +49,13 @@ Official skills curated by the Google Gemini team (`google-gemini/gemini-skills`
 | `gemini-live-api-dev` | Bidirectional real-time voice, video, and audio streaming over WebSockets |
 | `gemini-omni-flash-api` | Generative video editing, video extensions, and text/image-to-video with Omni Flash |
 
+### Proxy & Homelab Ops Suite
+
+- `xpanel-ops` — XPanel 控制面板与 NodeX 节点端全链路运维与部署技能：
+  - **全场景部署**：覆盖 XPanel 面板 Docker/Node 部署，NodeX 节点端标准 Linux 二进制、Docker 容器与 OpenWrt 路由器版。
+  - **节点与用户运维**：Hysteria 2、VLESS Reality 节点添加、端口跳跃、参数下发与心跳诊断。
+  - **环境嗅探与排障**：配套 `probe_env.sh` 脚本自动识别架构、网络与内核能力。
+
 ### UI Suite
 
 - `clean-workbench-ui` — Palette-agnostic skill for modern, crisp, high-density SaaS workbenches:
